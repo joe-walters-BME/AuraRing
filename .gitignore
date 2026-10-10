@@ -1,0 +1,39 @@
+# Ignore Mac DS_Store files in all directories
+.DS_Store
+#Ignore EAGLE board, schematic, and library auto save files (.b#x, .s#x,
+and .l#x) in all directories
+.b#
+.s#
+.l#
+#Development file for making local changes to Arduino libraries
+#Ignore in all directories
+.development
+#Ignore video files
+.mp4
+.mov
+#Ignore iOS image files because they are very large
+.heic
+#Ignore G-code files because they are very large
+.gcode
+# Ignore certain KiCad files
+# Format documentation httpskicad.orghelpfile-formats
+# Temporary files
+.000
+.bak
+.bck
+.kicad_pcb-bak
+.kicad_sch-bak
+-backups
+.kicad_prl
+.sch-bak
+~
+_autosave-
+.tmp
+-save.pro
+-save.kicad_pcb
+fp-info-cache
+# Netlist files (exported from Eeschema)
+.net
+# Autorouter files (exported from Pcbnew)
+.dsn
+.ses

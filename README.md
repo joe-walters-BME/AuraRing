@@ -13,3 +13,5 @@ The Bode plot took a while. I had something weird with the sampling rate, had to
 n/a
 
 n/a
+Week 7 - 
+I had no idea how long this would take. It ended up taking close to 16 hours, all told. Every single part of it gave me trouble, and I'm still not 100% sure it's working. But c'est la vie. 
